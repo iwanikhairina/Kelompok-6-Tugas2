@@ -1,0 +1,10 @@
+{ 
+    "nama": "kiming",
+    "umur": 20,
+    "menikah": true,
+    "hobi": [
+        "mengaji",
+        "puasa"
+    ],
+    "ipk": 3.8
+}
